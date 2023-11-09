@@ -1,0 +1,42 @@
+.aa{
+    display: flex;
+    justify-content: center;  
+}
+.wedding{
+    background-color: rgb(215, 250, 245);
+    padding: 50px;
+    border-radius: 50px;
+    margin: 50px;
+    border: 50px;
+}
+.party{
+    background-color: rgb(215, 250, 245);
+    padding: 50px;
+    border: 50px;
+    border-radius: 50px;
+    margin: 50px;
+}
+.bb{
+    display: flex;
+}
+.order{
+    background-color: rgb(215, 250, 245);
+    padding: 100px;
+    margin: 100px;
+    border: 100px;
+    border-radius: 100px;
+}
+.dresscode{
+    padding: 60px;
+    margin: 60px;
+    border: 60px;
+    border-radius: 60px;
+}
+body{
+    background-color: powderblue;
+}
+.centre{
+    text-align: center;
+}
+
+
